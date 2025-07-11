@@ -8,15 +8,15 @@ Este repositório é um guia completo e atualizado com **trilhas de aprendizado 
 
 ## 🔖 Índice de Trilhas
 
-1. [Desenvolvimento Front-End](trilhas/front-end/README.md)
-2. [Desenvolvimento Back-End](trilhas/back-end/README.md)
-3. [Desenvolvimento Mobile](trilhas/mobile/README.md)
-4. [Segurança da Informação](trilhas/seguranca/README.md)
-5. [Dados, Engenharia e Análise](trilhas/dados/README.md)
-6. [DevOps, CI/CD e Automação](trilhas/devops/README.md)
-7. [Infraestrutura e Redes](trilhas/infraestrutura/README.md)
-8. [Inteligência Artificial e Machine Learning](trilhas/ia-ml/README.md)
-9. [Carreira, Soft Skills e Liderança Técnica](trilhas/carreira/README.md)
+1. [Desenvolvimento Front-End](trilhas/1.%20front-end/README.md)
+2. [Desenvolvimento Back-End](trilhas/2.%20back-end/README.md)
+3. [Desenvolvimento Mobile](trilhas/3.%20mobile/README.md)
+4. [Segurança da Informação](trilhas/4.%20seguranca/README.md)
+5. [Dados, Engenharia e Análise](trilhas/5.%20dados/README.md)
+6. [DevOps, CI/CD e Automação](trilhas/6.%20devops/README.md)
+7. [Infraestrutura e Redes](trilhas/7.%20infraestrutura/README.md)
+8. [Inteligência Artificial e Machine Learning](trilhas/8.%20ia-ml/README.md)
+9. [Carreira, Soft Skills e Liderança Técnica](trilhas/9.%20carreira/README.md)
 
 ---
 
@@ -71,14 +71,14 @@ Este compilado foi desenvolvido com foco em profundidade real, e será atualizad
 
 ---
 
-➡️ [Ir para a Trilha 1: Desenvolvimento Front-End](trilhas/front-end/README.md)<br>
-➡️ [Ir para a Trilha 2: Desenvolvimento Back-End](trilhas/back-end/README.md)<br>
-➡️ [Ir para a Trilha 3: Desenvolvimento Mobile](trilhas/mobile/README.md)<br>
-➡️ [Ir para a Trilha 4: Segurança da Informação](trilhas/seguranca/README.md)<br>
-➡️ [Ir para a Trilha 5: Dados, Engenharia e Análise](trilhas/dados/README.md)<br>
-➡️ [Ir para a Trilha 6: DevOps, CI/CD e Automação](trilhas/devops/README.md)<br>
-➡️ [Ir para a Trilha 7: Infraestrutura e Redes](trilhas/infraestrutura/README.md)<br>
-➡️ [Ir para a Trilha 8: Inteligência Artificial e Machine Learning](trilhas/ia-ml/README.md)<br>
-➡️ [Ir para a Trilha 9: Carreira, Soft Skills e Liderança Técnica](trilhas/carreira/README.md)<br>
+➡️ [Ir para a Trilha 1: Desenvolvimento Front-End](trilhas/1.%20front-end/README.md)<br>
+➡️ [Ir para a Trilha 2: Desenvolvimento Back-End](trilhas/2.%20back-end/README.md)<br>
+➡️ [Ir para a Trilha 3: Desenvolvimento Mobile](trilhas/3.%20mobile/README.md)<br>
+➡️ [Ir para a Trilha 4: Segurança da Informação](trilhas/4.%20seguranca/README.md)<br>
+➡️ [Ir para a Trilha 5: Dados, Engenharia e Análise](trilhas/5.%20dados/README.md)<br>
+➡️ [Ir para a Trilha 6: DevOps, CI/CD e Automação](trilhas/6.%20devops/README.md)<br>
+➡️ [Ir para a Trilha 7: Infraestrutura e Redes](trilhas/7.%20infraestrutura/README.md)<br>
+➡️ [Ir para a Trilha 8: Inteligência Artificial e Machine Learning](trilhas/8.%20ia-ml/README.md)<br>
+➡️ [Ir para a Trilha 9: Carreira, Soft Skills e Liderança Técnica](trilhas/9.%20carreira/README.md)<br>
 
 ---
