@@ -128,4 +128,9 @@ Garantir confiabilidade, conformidade e arquitetura de dados escalável em ambie
 
 ---
 
+### 🔗 Bonus
+
+- Saiba mais sobre os [Comandos Git](trilhas/10.%20git%20commands/README.md)<br>
+
+<br>
 ➡️ [Voltar ao índice principal](../../README.md)

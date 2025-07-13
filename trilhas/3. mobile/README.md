@@ -128,4 +128,10 @@ Publicar apps profissionais com foco em performance, arquitetura limpa e monitor
 
 ---
 
+### 🔗 Bonus
+
+- Saiba mais sobre os [Comandos Git](trilhas/10.%20git%20commands/README.md)<br>
+
+<br>
+
 ➡️ [Voltar ao índice principal](../../README.md)

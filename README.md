@@ -17,6 +17,7 @@ Este repositório é um guia completo e atualizado com **trilhas de aprendizado 
 7. [Infraestrutura e Redes](trilhas/7.%20infraestrutura/README.md)
 8. [Inteligência Artificial e Machine Learning](trilhas/8.%20ia-ml/README.md)
 9. [Carreira, Soft Skills e Liderança Técnica](trilhas/9.%20carreira/README.md)
+10. [Comandos Git](trilhas/10.%20git%20commands/README.md)
 
 ---
 
@@ -80,5 +81,6 @@ Este compilado foi desenvolvido com foco em profundidade real, e será atualizad
 ➡️ [Ir para a Trilha 7: Infraestrutura e Redes](trilhas/7.%20infraestrutura/README.md)<br>
 ➡️ [Ir para a Trilha 8: Inteligência Artificial e Machine Learning](trilhas/8.%20ia-ml/README.md)<br>
 ➡️ [Ir para a Trilha 9: Carreira, Soft Skills e Liderança Técnica](trilhas/9.%20carreira/README.md)<br>
+➡️ [Ir para a Trilha 10: Comandos Git](trilhas/10.%20git%20commands/README.md)<br>
 
 ---
